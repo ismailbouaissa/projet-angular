@@ -1,0 +1,9 @@
+.btn{
+    border: none;
+    padding: 12px 16px ;
+    background-color: aqua;
+
+}
+.btn:hover{
+    background: fuchsia;
+}

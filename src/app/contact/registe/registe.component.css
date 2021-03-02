@@ -1,0 +1,11 @@
+h2{
+    color: aqua;
+    text-shadow: 2px 2px gray;
+}
+.btn{
+    background-color: aqua !important;
+    box-shadow:goldenrod;
+}
+a:hover{
+    text-decoration: none ;
+}
